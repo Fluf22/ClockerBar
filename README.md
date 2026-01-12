@@ -43,6 +43,15 @@ make run    # Build and launch
 make clean  # Clean build artifacts
 ```
 
+## Start at Login
+
+To have ClockerBar start automatically when you log in:
+
+1. Open **System Settings**
+2. Go to **General → Login Items**
+3. Under "Open at Login", click **+**
+4. Navigate to `ClockerBar.app` and select it
+
 ## Getting Your API Key
 
 1. Log in to BambooHR
