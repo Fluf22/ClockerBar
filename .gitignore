@@ -1,0 +1,7 @@
+.DS_Store
+*.log
+
+ClockerBar/.build/
+ClockerBar/.swiftpm/
+ClockerBar/ClockerBar
+ClockerBar/ClockerBar.app/Contents/MacOS/ClockerBar
